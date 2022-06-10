@@ -6,7 +6,7 @@ using namespace std;
 // Class to store the data
 class student
 {
-     int University_RollNo,University_RegistrationNo,;
+     int University_RollNo,University_RegistrationNo;
      char name[50];
      double average;
      char grade;
